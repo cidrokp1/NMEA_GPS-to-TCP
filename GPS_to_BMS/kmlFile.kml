@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Directions from Lisbon Naval Base, Almada to Cabo da Roca, Estrada do Cabo da Roca, Azóia</name>
+    <Placemark>
+      <name>Lisbon Naval Base, Almada</name>
+      <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+			 LONG,LAT,0 
+       LONG,LAT,0 
+       LONG,LAT,0 
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
